@@ -1,0 +1,27 @@
+{
+  "name": "reactstack",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikrishna9439/LearnReact.git"
+  },
+  "keywords": [],
+  "author": "Sai Krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikrishna9439/LearnReact/issues"
+  },
+  "homepage": "https://github.com/saikrishna9439/LearnReact#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
